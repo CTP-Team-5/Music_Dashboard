@@ -3,7 +3,9 @@ This will display the graphs and charts that will help us organize our data set 
 
 # Team Members
 [Methila Deb](https://github.com/methiladeb)
+
 [Alina Alizai](https://github.com/Alina1z)
+
 [Andy Wu](https://github.com/ndxnode)
 
 # Work Distribution
